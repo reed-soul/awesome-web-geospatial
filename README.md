@@ -442,6 +442,7 @@ Tile services for web maps.
 
 Ready-to-use web applications for geospatial data.
 
+- **[GIS Toolbox](https://gis.taoliapp.com/)** - Free browser GIS tools for coordinate conversion (WGS84/UTM/EPSG/GCJ-02/BD-09), Shapefile/GeoJSON/KML, and map measurement; files stay on-device.
 - **[mapshaper](https://github.com/mbloch/mapshaper)** - Online editor for Shapefile/GeoJSON/TopoJSON/CSV with simplification.
 
 - **[geojson.io](https://github.com/mapbox/geojson.io)** - Web tool for creating and sharing spatial data.
